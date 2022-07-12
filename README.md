@@ -8,7 +8,7 @@ It is assumed that there exists a **working [anaconda3](https://www.anaconda.com
 
 ## Installation
 
-Clone the repository:
+Clone the repository (from your $HOME directory, i.e., cd ~):
 
 ```console
 $ git clone https://github.com/Santiastro1/Athens_School_2022.git
