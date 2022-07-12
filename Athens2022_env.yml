@@ -17,3 +17,4 @@ dependencies:
     - astro-limepy
     - dislib
     - docker
+    - pandas
