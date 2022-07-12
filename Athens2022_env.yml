@@ -1,0 +1,19 @@
+# Athens2022_env.yml v1.1
+name: Athens2022
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy=1.15.4
+  - scipy
+  - jupyter
+  - matplotlib
+  - anaconda-navigator
+  - pip
+  - pip:
+    - yt
+    - pynbody
+    - astro-limepy
+    - dislib
+    - docker
