@@ -20,3 +20,4 @@ dependencies:
     - pandas
     - astropy
     - pygaia
+    - gdown
