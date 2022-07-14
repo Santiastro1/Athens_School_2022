@@ -18,3 +18,5 @@ dependencies:
     - dislib
     - docker
     - pandas
+    - astropy
+    - pygaia
