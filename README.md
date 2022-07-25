@@ -117,7 +117,7 @@ If you have had problems on running any of the cells, please get in contact with
 
 ## Updating installation
 
-Should you need to update an already existing ```Athens2022``` environment with a newer ```Athens2022_env..yml``` version:
+Should you need to update an already existing ```Athens2022``` environment with a newer ```Athens2022_env.yml``` version:
 
 ```console
 $ conda env update --name Athens2022 -f Athens2022_env..yml --prune
